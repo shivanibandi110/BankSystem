@@ -1,0 +1,3 @@
+---BANK MANAGEMENT SYSTEM---
+---Simple menu of all possible options for a bank and for queries too
+----this code is written in C++ for my task 3 of internship at TopperWorld
